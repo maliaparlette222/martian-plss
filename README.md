@@ -10,7 +10,9 @@ I'm learning real engineering by building. Each project here is a small, visual 
 
 | Project | What it does | Code | Demo | Write-up |
 |---|---|---|---|---|
-| *Coming soon* | The first projects are on the way — see [PROJECT-IDEAS.md](PROJECT-IDEAS.md) for the backlog. | — | — | — |
+| [EVA PLSS obstacle course](projects/eva-plss-obstacle-course/) | Dry-land course replicating the most common EVA tasks done in a PLSS. | [Code](projects/eva-plss-obstacle-course/) | _coming after the build_ | [Write-up](projects/eva-plss-obstacle-course/) |
+
+More ideas in the backlog: [PROJECT-IDEAS.md](PROJECT-IDEAS.md).
 
 ## How projects are structured
 
